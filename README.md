@@ -32,8 +32,8 @@ You also need:
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/jithin06/dino_game.git
+cd dino_game
 ```
 
 2. **Launch the notebook:**
